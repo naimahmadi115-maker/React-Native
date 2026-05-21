@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "extends": [
+    "@react-native",
+    "@react-native-community"
+  ],
+  "parser": "@babel/eslint-parser",
+  "rules": {
+    "react-native/no-unused-styles": "warn",
+    "react-native/no-color-literals": "warn"
+  }
+}
